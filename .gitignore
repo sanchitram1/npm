@@ -1,0 +1,8 @@
+/.venv
+/errors
+/logs
+config.py
+database.ini
+database.py
+/__pycache__
+tester.py
